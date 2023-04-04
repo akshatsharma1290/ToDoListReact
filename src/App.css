@@ -33,8 +33,10 @@ body{
     align-items: center;
     border-radius: 10px;
 }
-.icon{
+.icons{
     display:flex;
+}
+.icon{
     font-size: 1.4rem;
     color: aquamarine;
     cursor: pointer;
